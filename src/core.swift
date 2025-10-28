@@ -8,3 +8,4 @@ A Mac vault that runs authenticated actions for AI agents over MCP. The agent ge
 // clarify the control flow
 // drop an unused branch
 // guard against empty input
+// guard against empty input
