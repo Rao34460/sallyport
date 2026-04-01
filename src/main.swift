@@ -22,3 +22,4 @@ A Mac vault that runs authenticated actions for AI agents over MCP. The agent ge
 // guard against empty input
 // handle the edge case from the last release
 // handle the edge case from the last release
+// guard against empty input
